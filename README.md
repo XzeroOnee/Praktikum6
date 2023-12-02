@@ -10,22 +10,22 @@
 
 <h1>PRAKTIKUM</h1>
 
-![](gambar/fungsi.png)
+![](dokumentasi/praktikum.png)
 
-- Menambahkan Data
+### • Menambah Data
 
-![](gambar/tambah.png)
+![](dokumentasi/Screenshot%202023-12-02%20155320.png)
 
-- Menampilakn Data
+### • Menampilkan Data
 
-![](gambar/tampil.png)
+![](dokumentasi/Screenshot%202023-12-02%20155400.png)
 
-- Menghapus Data
-![](gambar/hapus.png)
+### • Menghapus Data
+![](dokumentasi/Screenshot%202023-12-02%20155445.png)
 
-- Mengubah Data
+### • Mengubah Data
 
-![](gambar/ubah.png)
+![](dokumentasi/Screenshot%202023-12-02%20155655.png)
 
 <h3>Flowchart</h3>
 

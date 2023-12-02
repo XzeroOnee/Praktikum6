@@ -6,7 +6,7 @@
 
 <h3>OUTPUT</h3>
 
-![](gambar/output.png)
+![](dokumentasi/Screenshot%202023-12-02%20154550.png)
 
 <h1>PRAKTIKUM</h1>
 

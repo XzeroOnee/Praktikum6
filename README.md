@@ -29,4 +29,4 @@
 
 <h3>Flowchart</h3>
 
-![](gambar/flowchart.png)
+![](dokumentasi/flowchartt.png)
